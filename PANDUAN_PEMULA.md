@@ -1,8 +1,10 @@
 # Panduan Pemula: Interface Driver Motor Xtark 2-Channel dengan Arduino Uno dan Mega
 
-![6eb3de11-ee15-4f32-bfe6-78d015e8fa2e](./assets/6eb3de11-ee15-4f32-bfe6-78d015e8fa2e.png)
+![image-20260109072653406](./assets/image-20260109072653406.png)
 
-Dokumentasi ini dibuat untuk membantu pemula menghubungkan dan mengendalikan **Xtark 2-Channel Motor Driver (AT8236)** menggunakan Arduino. Panduan ini mencakup skema pengkabelan, penjelasan kode, dan cara pengujian.
+
+
+Dokumentasi ini dibuat untuk membantu pemula menghubungkan dan mengendalikan 2-Channel Motor Driver (AT8236) menggunakan Arduino Uno. Panduan ini mencakup skema pengkabelan, penjelasan kode, dan cara pengujian.
 
 ---
 
