@@ -10,7 +10,7 @@ Dokumentasi ini dibuat untuk membantu pemula menghubungkan dan mengendalikan 2-C
 
 ## 1. Pengenalan Produk
 
-**Xtark Dual Channel Motor Driver (AT8236)** adalah modul driver motor performa tinggi yang dapat mengendalikan dua motor DC sekaligus. Modul ini memiliki fitur:
+**Dual Channel Motor Driver (AT8236)** adalah modul driver motor performa tinggi yang dapat mengendalikan dua motor DC sekaligus. Modul ini memiliki fitur:
 
 *   **Tegangan Input:** 5.5V - 15V.
 *   **Arus:** 3A Kontinu (6A Puncak) per channel.
@@ -115,5 +115,14 @@ L: 120.5 RPM | R: 121.0 RPM | V: 11.20V | PWM: 150 | FWD
 1.  **Cek Tegangan Baterai:** Pastikan tegangan baterai Anda di atas 5.5V. Jika di bawah itu, driver mungkin tidak bekerja optimal. Gunakan fitur perintah `i` atau lihat di serial monitor untuk memantau tegangan.
 2.  **Motor Terbalik?** Jika Anda memberikan perintah maju (angka positif) tapi roda berputar mundur, tukar posisi kabel motor motor (Misal: tukar kabel Merah dan Hitam pada terminal motor output).
 3.  **Encoder Tidak Terbaca?** Pastikan kabel encoder E1A/E1B dan E2A/E2B terpasang kuat. Jika RPM tetap 0 saat motor berputar, periksa koneksi kabel kecil dari motor ke driver.
+
+## Source Code
+
+- [Control Demo V1](https://raw.githubusercontent.com/hwthinker/D175B-2-channel-MotorDC-driver-master/refs/heads/master/source-code/controldemo-v1/controldemo-v1.ino)
+- [Control Demo V2](https://raw.githubusercontent.com/hwthinker/D175B-2-channel-MotorDC-driver-master/refs/heads/master/source-code/controldemo-v2/controldemo-v2.ino)  
+
+## Demo Video
+
+- https://youtu.be/2ymgaDjIJkA
 
 Selamat Mencoba!
