@@ -1,4 +1,4 @@
-# Panduan Pemula: Interface Driver Motor Xtark 2-Channel dengan Arduino Uno dan Mega
+# Panduan Pemula: Interface Driver Motor D157B 2-Channel dengan Arduino Uno dan Mega
 
 ![image-20260109072653406](./assets/image-20260109072653406.png)
 

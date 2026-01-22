@@ -1,6 +1,6 @@
-# XTARK  Dual Channel Motor Driver AT8236
+# D157B Dual Channel Motor Driver AT8236
 
-![image.png](assets/6eb3de11-ee15-4f32-bfe6-78d015e8fa2e.png)
+![image-20260109072653406](./assets/image-20260109072653406.png)
 
 ## Diskripsi
 
